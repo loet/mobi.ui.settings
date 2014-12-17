@@ -1,0 +1,15 @@
+{
+  "name": "mobi.ui.settings",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loet/mobi.ui.settings",
+  "authors": [
+    "U110730 <ueli.loetscher@mobi.ch>"
+  ],
+  "description": "angular module providing SettingsManager",
+  "main": "src/settings.js",
+  "license": "N/A",
+  "devDependencies": {
+    "angular": "1.2.21",
+    "angular-mocks": "1.2.21"
+  }
+}

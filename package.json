@@ -1,0 +1,28 @@
+{
+  "name": "mobi.ui.settings",
+  "version": "0.0.1",
+  "description": "angular module providing SettingsManager",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loet/mobi.ui.settings.git"
+  },
+  "author": "U110730 <ueli.loetscher@mobi.ch>",
+  "license": "N/A",
+  "bugs": {
+    "url": "https://github.com/loetmobi.ui.settings/issues"
+  },
+  "homepage": "https://github.com/loet/mobi.ui.settings",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "karma": "~0.12.28",
+    "grunt-karma": "~0.9.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-chrome-launcher": "~0.1.7"
+  }
+}
